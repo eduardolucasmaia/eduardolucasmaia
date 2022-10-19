@@ -22,8 +22,10 @@ Atualmente sou formado em engenharia de computação, possuo pós em MBA em gest
 
 ![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=2496ED)
 ![](https://img.shields.io/badge/Tools-Microsoft%20Azure-informational?style=flat&logo=MicrosoftAzure&logoColor=white&color=0078D4)
+![](https://img.shields.io/badge/Tools-NuGet-informational?style=flat&logo=NuGet&logoColor=white&color=004880)
 
 ![](https://img.shields.io/badge/Database-SQL%20Server-informational?style=flat&logo=MicrosoftSQLServer&logoColor=white&color=CC2927)
+![](https://img.shields.io/badge/Database-PL/SQL-informational?style=flat&logo=oracle&logoColor=white&color=F80000)
 ![](https://img.shields.io/badge/Database-MySQL-informational?style=flat&logo=mysql&logoColor=white&color=4479A1)
 ![](https://img.shields.io/badge/Database-MongoDB-informational?style=flat&logo=mongodb&logoColor=white&color=47A248)
 ![](https://img.shields.io/badge/Database-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=4169E1)
@@ -32,6 +34,8 @@ Atualmente sou formado em engenharia de computação, possuo pós em MBA em gest
 
 
 <!--
+https://simpleicons.org/
+https://img.shields.io/
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=1f6feb)
 ![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=java&logoColor=white&color=1f6feb)
 ![](https://img.shields.io/badge/Code-NextJS-informational?style=flat&logo=nextdotjs&logoColor=white&color=1f6feb)
