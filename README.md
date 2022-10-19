@@ -28,9 +28,6 @@ Atualmente sou formado em engenharia de computação, possuo pós em MBA em gest
 ![](https://img.shields.io/badge/Database-MongoDB-informational?style=flat&logo=mongodb&logoColor=white&color=47A248)
 ![](https://img.shields.io/badge/Database-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=4169E1)
 
-![](https://img.shields.io/badge/Database-Visual Studio-informational?style=flat&logo=postgresql&logoColor=white&color=1f6feb)
-
-
 
 
 
