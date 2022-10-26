@@ -1,7 +1,15 @@
 ### Olá!!! 👋
 
-
+<div align="center">
 Atualmente sou formado em engenharia de computação, possuo pós em MBA em gestão de projetos e trabalho com TI desde 2014. Desde então trabalho em projetos web nas tecnologias .NET, JavaScript e Mobile. Tenho experiência no desenvolvimento de software, com ênfase em análise e desenvolvimento de aplicativos orientados para a web.
+</div>
+
+<div align="center">
+  <a href="mailto:eduardolucasmaia@hotmail.com" target="_blank"><img src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=outlook&logoColor=white"></a>
+  <a href="mailto:eduardolucasmaia@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/eduardolucasmaia/" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
+  <a href="https://discord.gg/RKGPARJa" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
+</div>
 
 #### Linguagens e Frameworks
 
@@ -41,6 +49,9 @@ Atualmente sou formado em engenharia de computação, possuo pós em MBA em gest
 <!--
 https://simpleicons.org/
 https://img.shields.io/
+
+<a href="https://stackoverflow.com/users/" target="_blank"><img src="https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white"></a> 
+
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=1f6feb)
 ![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=java&logoColor=white&color=1f6feb)
 ![](https://img.shields.io/badge/Code-NextJS-informational?style=flat&logo=nextdotjs&logoColor=white&color=1f6feb)
