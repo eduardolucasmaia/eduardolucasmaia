@@ -12,6 +12,7 @@ Atualmente sou formado em engenharia de computação, possuo pós em MBA em gest
 #### Linguagens e Frameworks
 
 <div align="center">
+  
 ![](https://img.shields.io/badge/Editor-Visual%20Studio-informational?style=flat&logo=visualstudio&logoColor=white&color=5C2D91)
 ![](https://img.shields.io/badge/Editor-VSCode-informational?style=flat&logo=visualstudiocode&logoColor=white&color=007ACC)
 ![](https://img.shields.io/badge/Editor-Arduino-informational?style=flat&logo=arduino&logoColor=white&color=00979D)
