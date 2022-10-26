@@ -60,11 +60,13 @@ Atualmente sou formado em engenharia de computação, possuo pós em MBA em gest
   
 </div>
 
+
 <div align="center">
   <a href="https://github.com/igorandradee">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=eduardolucasmaia&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&icon_color=fff"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eduardolucasmaia&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
+
 
 <!--
 https://simpleicons.org/
