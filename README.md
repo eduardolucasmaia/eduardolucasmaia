@@ -1,8 +1,6 @@
 ### Olá!!! 👋
 
-<div align="center">
 Atualmente sou formado em engenharia de computação, possuo pós em MBA em gestão de projetos e trabalho com TI desde 2014. Desde então trabalho em projetos web nas tecnologias .NET, JavaScript e Mobile. Tenho experiência no desenvolvimento de software, com ênfase em análise e desenvolvimento de aplicativos orientados para a web.
-</div>
 
 <div align="center">
   <a href="mailto:eduardolucasmaia@hotmail.com" target="_blank"><img src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=outlook&logoColor=white"></a>
@@ -13,6 +11,7 @@ Atualmente sou formado em engenharia de computação, possuo pós em MBA em gest
 
 #### Linguagens e Frameworks
 
+<div align="center">
 ![](https://img.shields.io/badge/Editor-Visual%20Studio-informational?style=flat&logo=visualstudio&logoColor=white&color=5C2D91)
 ![](https://img.shields.io/badge/Editor-VSCode-informational?style=flat&logo=visualstudiocode&logoColor=white&color=007ACC)
 ![](https://img.shields.io/badge/Editor-Arduino-informational?style=flat&logo=arduino&logoColor=white&color=00979D)
@@ -46,6 +45,7 @@ Atualmente sou formado em engenharia de computação, possuo pós em MBA em gest
 ![](https://img.shields.io/badge/Database-MySQL-informational?style=flat&logo=mysql&logoColor=white&color=4479A1)
 ![](https://img.shields.io/badge/Database-MongoDB-informational?style=flat&logo=mongodb&logoColor=white&color=47A248)
 ![](https://img.shields.io/badge/Database-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=4169E1)
+</div>
 
 <!--
 https://simpleicons.org/
