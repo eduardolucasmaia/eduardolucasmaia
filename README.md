@@ -9,7 +9,7 @@ Atualmente sou formado em engenharia de computação, possuo pós em MBA em gest
   <a href="https://discord.gg/RKGPARJa" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
 </div>
 
-#### Linguagens e Frameworks
+## Linguagens e Frameworks
 
 <div align="center">
   
@@ -29,8 +29,9 @@ Atualmente sou formado em engenharia de computação, possuo pós em MBA em gest
 ![](https://img.shields.io/badge/Code-AngularJS-informational?style=flat&logo=angularjs&logoColor=white&color=E23237)
 ![](https://img.shields.io/badge/Code-Angular-informational?style=flat&logo=angular&logoColor=white&color=DD0031)
 ![](https://img.shields.io/badge/Code-TypeScript-informational?style=flat&logo=typescript&logoColor=white&color=3178C6) 
-![](https://img.shields.io/badge/Code-Flutter-informational?style=flat&logo=flutter&logoColor=white&color=02569B) 
-
+![](https://img.shields.io/badge/Framework-Flutter-informational?style=flat&logo=flutter&logoColor=white&color=02569B) 
+![](https://img.shields.io/badge/Code-Dart-informational?style=flat&logo=dart&logoColor=white&color=0175C2) 
+  
 ![](https://img.shields.io/badge/Code-SharePoint-Microsoft?style=flat&logo=MicrosoftSharePoint&logoColor=white&color=0078D4)
 ![](https://img.shields.io/badge/Code-Power%20Automate-Microsoft?style=flat&logo=PowerAutomate&logoColor=white&color=0066FF)
 ![](https://img.shields.io/badge/Code-Power%20Apps-informational?style=flat&logo=powerapps&logoColor=white&color=742774)
@@ -46,6 +47,7 @@ Atualmente sou formado em engenharia de computação, possuo pós em MBA em gest
 ![](https://img.shields.io/badge/Database-MySQL-informational?style=flat&logo=mysql&logoColor=white&color=4479A1)
 ![](https://img.shields.io/badge/Database-MongoDB-informational?style=flat&logo=mongodb&logoColor=white&color=47A248)
 ![](https://img.shields.io/badge/Database-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=4169E1)
+  
 </div>
 
 <!--
