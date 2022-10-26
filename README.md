@@ -19,6 +19,7 @@ Atualmente sou formado em engenharia de computação, possuo pós em MBA em gest
 ![](https://img.shields.io/badge/Editor-Sourcetree-informational?style=flat&logo=sourcetree&logoColor=white&color=0052CC)
 
 ![](https://img.shields.io/badge/Code-.NET-informational?style=flat&logo=dotnet&logoColor=white&color=512BD4)
+![](https://img.shields.io/badge/Code-c%23-informational?style=flat&logo=c-sharp&logoColor=white&color=239120)
 ![](https://img.shields.io/badge/Code-Html-informational?style=flat&logo=html5&logoColor=white&color=E34F26)
 ![](https://img.shields.io/badge/Code-CSS-informational?style=flat&logo=css3&logoColor=white&color=1572B6)
 ![](https://img.shields.io/badge/Code-Javascript-informational?style=flat&logo=javascript&logoColor=white&color=F7DF1E)
