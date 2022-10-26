@@ -17,7 +17,8 @@ Atualmente sou formado em engenharia de computação, possuo pós em MBA em gest
 ![](https://img.shields.io/badge/-VSCode-informational?style=flat&logo=visualstudiocode&logoColor=white&color=007ACC)
 ![](https://img.shields.io/badge/-Arduino-informational?style=flat&logo=arduino&logoColor=white&color=00979D)
 ![](https://img.shields.io/badge/-Sourcetree-informational?style=flat&logo=sourcetree&logoColor=white&color=0052CC)
-
+![](https://img.shields.io/badge/-Postman-informational?style=flat&logo=postman&logoColor=white&color=FF6C37)
+  
 ![](https://img.shields.io/badge/-.NET-informational?style=flat&logo=dotnet&logoColor=white&color=512BD4)
 ![](https://img.shields.io/badge/-c%23-informational?style=flat&logo=c-sharp&logoColor=white&color=239120)
 ![](https://img.shields.io/badge/-Html-informational?style=flat&logo=html5&logoColor=white&color=E34F26)
@@ -43,11 +44,13 @@ Atualmente sou formado em engenharia de computação, possuo pós em MBA em gest
 ![](https://img.shields.io/badge/-NPM-informational?style=flat&logo=npm&logoColor=white&color=CB3837)
 ![](https://img.shields.io/badge/-Jenkins-informational?style=flat&logo=jenkins&logoColor=white&color=D24939)
 ![](https://img.shields.io/badge/-Apache%20Cordova-informational?style=flat&logo=apachecordova&logoColor=white&color=E8E8E8)
-
+![](https://img.shields.io/badge/-Swagger-informational?style=flat&logo=swagger&logoColor=white&color=85EA2D)
+  
 ![](https://img.shields.io/badge/-Git-informational?style=flat&logo=git&logoColor=white&color=F05032)
 ![](https://img.shields.io/badge/-GitHub-informational?style=flat&logo=github&logoColor=white&color=181717)
 ![](https://img.shields.io/badge/-Bitbucket-informational?style=flat&logo=bitbucket&logoColor=white&color=0052CC)
 ![](https://img.shields.io/badge/-GitLab-informational?style=flat&logo=gitlab&logoColor=white&color=FC6D26)
+![](https://img.shields.io/badge/-TFS-informational?style=flat&logo=MicrosoftAzure&logoColor=white&color=0078D4)
 
 ![](https://img.shields.io/badge/-SQL%20Server-informational?style=flat&logo=MicrosoftSQLServer&logoColor=white&color=CC2927)
 ![](https://img.shields.io/badge/-PL%2FSQL-informational?style=flat&logo=oracle&logoColor=white&color=F80000)
@@ -55,6 +58,12 @@ Atualmente sou formado em engenharia de computação, possuo pós em MBA em gest
 ![](https://img.shields.io/badge/-MongoDB-informational?style=flat&logo=mongodb&logoColor=white&color=47A248)
 ![](https://img.shields.io/badge/-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=4169E1)
   
+</div>
+
+<div align="center">
+  <a href="https://github.com/igorandradee">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=eduardolucasmaia&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&icon_color=fff"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eduardolucasmaia&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
 
 <!--
