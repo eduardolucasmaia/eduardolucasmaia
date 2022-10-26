@@ -13,10 +13,10 @@ Atualmente sou formado em engenharia de computação, possuo pós em MBA em gest
 
 <div align="center">
   
-![](https://img.shields.io/badge/Visual%20Studio-informational?style=flat&logo=visualstudio&logoColor=white&color=5C2D91)
-![](https://img.shields.io/badge/VSCode-informational?style=flat&logo=visualstudiocode&logoColor=white&color=007ACC)
-![](https://img.shields.io/badge/Arduino-informational?style=flat&logo=arduino&logoColor=white&color=00979D)
-![](https://img.shields.io/badge/Sourcetree-informational?style=flat&logo=sourcetree&logoColor=white&color=0052CC)
+![](https://img.shields.io/badge/-Visual%20Studio-informational?style=flat&logo=visualstudio&logoColor=white&color=5C2D91)
+![](https://img.shields.io/badge/-VSCode-informational?style=flat&logo=visualstudiocode&logoColor=white&color=007ACC)
+![](https://img.shields.io/badge/-Arduino-informational?style=flat&logo=arduino&logoColor=white&color=00979D)
+![](https://img.shields.io/badge/-Sourcetree-informational?style=flat&logo=sourcetree&logoColor=white&color=0052CC)
 
 ![](https://img.shields.io/badge/Framework-.NET-informational?style=flat&logo=dotnet&logoColor=white&color=512BD4)
 ![](https://img.shields.io/badge/Code-c%23-informational?style=flat&logo=c-sharp&logoColor=white&color=239120)
