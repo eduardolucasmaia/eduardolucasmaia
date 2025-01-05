@@ -67,6 +67,9 @@ Atualmente sou formado em engenharia de computação, possuo pós em MBA em gest
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eduardolucasmaia&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
 
+<div align="center">
+  <a href="https://app.rocketseat.com.br/me/eduardolucasmaia"><img src="https://app.rocketseat.com.br/api/rocketid/share?slug=eduardolucasmaia&type=card" width="280" alt="Eduardo Lucas Maia's Rocket ID"/></a>
+</div>
 
 <!--
 https://simpleicons.org/
@@ -83,6 +86,3 @@ https://img.shields.io/
 ![](https://img.shields.io/badge/Design-Figma-informational?style=flat&logo=figma&logoColor=white&color=1f6feb)
 ![](https://img.shields.io/badge/Design-Canva-informational?style=flat&logo=canva&logoColor=white&color=1f6feb)   
 -->
-
-
-<a href="https://app.rocketseat.com.br/me/eduardolucasmaia"><img src="https://app.rocketseat.com.br/api/rocketid/share?slug=eduardolucasmaia&type=card" width="280" alt="Eduardo Lucas Maia's Rocket ID"/></a>
